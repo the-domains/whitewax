@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[whitewax]]></title>
+        <description><![CDATA[whitewax]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 08 Apr 2016 18:15:29 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>http://wearemahogany.com/michael-kiwanuka-debuts-first-song-love-hate/</p>]]></description>
+            <link>undefinedhttpwearemahoganycommichael-kiwanuka-debuts-first-song-/index.html</link>
+            <guid isPermaLink="false">beb37b18-8261-4739-938f-acfb54e5fe8b</guid>
+            <pubDate>Fri, 08 Apr 2016 18:15:22 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
